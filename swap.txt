@@ -1,0 +1,4 @@
+Hello Guys
+Welcome to LInux Classws
+In Todays class we have to learn eaht is swap space and all
+swap space is secondary storage device that is over commited by the memory
